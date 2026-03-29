@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "NANI?",
+  "base_artist": "Jin Dogg",
+  "createdAt": "2026-03-29T09:17:35.429108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Il denaro dei nani",
+      "artist": "Angelo Branduardi",
+      "has_synced": true,
+      "path": "select/01_Il_denaro_dei_nani_Angelo_Branduardi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Ask Me Anything / Nani Mo Kikanai De",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/02_Don't_Ask_Me_Anything___Nani_Mo_Kikanai_De_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Ask Me Anything / Nani Mo Kikanai De (Remastered 2019)",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/03_Don't_Ask_Me_Anything___Nani_Mo_Kikanai_De_(Remastered_2019)_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nani",
+      "artist": "Soul Whirling Somewhere",
+      "has_synced": false,
+      "path": "select/04_Nani_Soul_Whirling_Somewhere.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ne Ne Nani Ne",
+      "artist": "Deepu, M.M.Keeravaani & G Sahithi",
+      "has_synced": false,
+      "path": "select/05_Ne_Ne_Nani_Ne_Deepu,_M.M.Keeravaani_&_G_Sahithi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nani mo Iranai",
+      "artist": "Taeko Onuki",
+      "has_synced": true,
+      "path": "select/06_Nani_mo_Iranai_Taeko_Onuki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nani mo Iranai",
+      "artist": "Taeko Ohnuki",
+      "has_synced": true,
+      "path": "select/07_Nani_mo_Iranai_Taeko_Ohnuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NANI THE FUCK!!",
+      "artist": "Camellia feat. Nanahira",
+      "has_synced": true,
+      "path": "select/08_NANI_THE_FUCK!!_Camellia_feat._Nanahira.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NANI THE FUCK!!",
+      "artist": "Camellia, Nanahira",
+      "has_synced": true,
+      "path": "select/09_NANI_THE_FUCK!!_Camellia,_Nanahira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nani (feat. Enry-K)",
+      "artist": "Kidd Keo feat. Enry-K",
+      "has_synced": true,
+      "path": "select/10_Nani_(feat._Enry-K)_Kidd_Keo_feat._Enry-K.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nani (feat. Enry-K)",
+      "artist": "Kidd Keo;Enry-K",
+      "has_synced": true,
+      "path": "select/11_Nani_(feat._Enry-K)_Kidd_Keo;Enry-K.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nani (feat. Enry-K)",
+      "artist": "Kidd Keo",
+      "has_synced": true,
+      "path": "select/12_Nani_(feat._Enry-K)_Kidd_Keo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fuerza (feat. Nani Castle)",
+      "artist": "Tony Quattro feat. Nani Castle",
+      "has_synced": true,
+      "path": "select/13_Fuerza_(feat._Nani_Castle)_Tony_Quattro_feat._Nani_Castle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nani Wai' Ale' Ale",
+      "artist": "Lisa Ono",
+      "has_synced": false,
+      "path": "select/14_Nani_Wai'_Ale'_Ale_Lisa_Ono.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nani Wai’ale’ale",
+      "artist": "Lisa Ono",
+      "has_synced": false,
+      "path": "select/15_Nani_Wai’ale’ale_Lisa_Ono.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NANI?",
+      "artist": "Jin Dogg",
+      "has_synced": false,
+      "path": "select/pl_01_NANI_Jin_Dogg.txt"
+    }
+  ]
+}
